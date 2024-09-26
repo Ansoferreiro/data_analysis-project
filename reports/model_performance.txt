@@ -1,0 +1,2 @@
+Erro quadrático médio: 0.2499880306322389
+R-quadrado: 4.346766273666258e-05
